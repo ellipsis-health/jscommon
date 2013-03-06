@@ -1,4 +1,4 @@
 require "jscommon/engine"
 
-module Jscommon
+module JsCommon
 end
