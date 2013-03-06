@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = JsCommon::VERSION
   s.authors     = ["Dieterich Lawson"]
   s.email       = ["dieterich.lawson@gmail.com"]
-  s.homepage    = "ellipsishealth.com"
+  s.homepage    = "http://ellipsishealth.com"
   s.summary     = "Javascript common library"
   s.description = "This Rails plugin contains a collection of useful Javascript utilities."
 
